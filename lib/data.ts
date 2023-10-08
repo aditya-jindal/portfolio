@@ -97,8 +97,8 @@ export const projectsData = [
       "React Resend",
     ],
     imageUrl: portfolio,
-    liveUrl: "https://fast-react-pizza-aditya.netlify.app/",
-    sourceUrl: "https://github.com/aditya-jindal/fast-react-pizza",
+    liveUrl: "https://adityajindal.vercel.app/",
+    sourceUrl: "https://github.com/aditya-jindal/portfolio",
   },
   {
     title: "Wild Oasis",
