@@ -69,7 +69,7 @@ export const projectsData = [
   {
     title: "IRCTC Clone",
     description:
-      "A pizza delivery app made using react.js and tailwind. Features a responsive design and is a fully functional app in which the orders can be modified/tracked using the respective orderIDs.",
+      "A clone of IRCTC website. My first web development project built using vanilla technologies.",
     tags: ["HTML", "CSS", "JAVASCRIPT"],
     imageUrl: irctcClone,
     liveUrl: "https://aditya-jindal.github.io/IRCTC-clone",
