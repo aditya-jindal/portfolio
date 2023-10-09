@@ -8,7 +8,7 @@ import { useActiveSectionContext } from "@/context/active-section-context";
 import useSectionInView from "@/lib/hooks";
 
 export default function Projects() {
-  const { ref } = useSectionInView("Projects", 0.5);
+  const { ref } = useSectionInView("Projects", 0.24);
   // ref={ref}
 
   // const { setActiveSection, timeSinceClick } = useActiveSectionContext();
