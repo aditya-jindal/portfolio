@@ -1,7 +1,7 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
-import { LuGraduationCap } from "react-icons/lu";
+import { LuBriefcase } from "react-icons/lu";
 import fastReactPizza from "@/public/fast-react-pizza.png";
 import usePopcorn from "@/public/use-popcorn.png";
 import pigGame from "@/public/pig-game.png";
@@ -42,7 +42,7 @@ export const experiencesData = [
     location: "VITrendz",
     description:
       "I'm currently working part-time as a Front-End Web Developer at VITrendz. My main role involves working alongside a team and implementing front-end for our apps. By designing intuitive interfaces, I aim to enrich the student experience at VIT and contribute positively to their academic journey.",
-    icon: React.createElement(LuGraduationCap),
+    icon: React.createElement(LuBriefcase),
     date: "Aug 2023-Present",
   },
 ] as const;
